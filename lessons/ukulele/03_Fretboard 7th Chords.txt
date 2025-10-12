@@ -1,0 +1,16 @@
+### Maj7 Shapes
+
+IMAGE:maj7_shapes.jpeg | C Maj 7 | large
+
+### Min7 Shapes
+
+IMAGE:min7_shapes.jpeg | A Min 7 | large
+
+### Dom7 Shapes
+
+IMAGE:dom7_shapes.jpeg | C Dom 7 | large
+
+### Min7b5 Shapes
+ 
+IMAGE:min7b5_shapes.jpeg | B Min 7b5 | large
+

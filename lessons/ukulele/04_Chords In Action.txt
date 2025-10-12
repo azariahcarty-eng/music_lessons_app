@@ -1,0 +1,203 @@
+#### Some Chord Relations 
+Any(m7) ≈ ⬆️m3(maj6) GBbDF-BbDFG
+Any(dom9) ≈ ⬆️M3(ø) GBDFA-BDFA
+Any(ø) ≈ ⬆️m3(m6) BDFA-DFAB
+Any(7b9) ≈ ⬆️M3(°7) GBDFAb-BDFAb
+
+### How To Play Min7 Chords
+_There are really only four shapes to the minor 7 chord. The four chords we are working with are Am, Gm, Fm and Dm._
+#### Am7 Shape
+IMAGE:am7 shape 1.jpeg |  | large
+IMAGE:am7 shape 2.jpeg | | large  
+##### Top Fret Number: 
+0] Am7;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4] C#m7;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8] Fm7;
+1] Bbm7;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5] Dm7;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9] F#m7;          
+2] Bm7;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6] Ebm7;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10] Gm7;          
+3] Cm7;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7] Em7;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11] Abm7;      
+                   
+                   
+#### Gm7 Shapes
+IMAGE:gm7shape1.jpeg |  | large
+IMAGE:gm7shape2.jpeg | | large 
+##### Top Fret Number: 
+0] Gm7;                    6] C#m7; 
+1] Abm7;                   7] Dm7; 
+2] Am7;                     8] Ebm7; 
+3] Bbm7;                   9] Em7; 
+4] Bm7;                    10] Fm7; 
+5] Cm7;                    11] F#m7; 
+
+#### Fm7 Shapes
+IMAGE:fm7shape1.jpeg |  | large
+IMAGE:fm7shape2.jpeg | | large 
+##### Top Fret Number: 
+0] Em7;                     6] Bbm7; 
+1] Fm7;                      7] Bm7; 
+2] F#m7;                   8] Cm7; 
+3] Gm7;                     9] C#m7; 
+4] Abm7;                  10] Dm7; 
+5] Am7;                     11] Ebm7; 
+
+#### Dm7 Shapes
+IMAGE:dm7shape1.jpeg |  | large
+ 
+##### Top Fret Number: 
+1] Dm7;                     7] Abm7; 
+2] Ebm7;                   8] Am7; 
+3] Em7;                     9] Bbm7; 
+4] Fm7;                    10] Bm7; 
+5] F#m7;                  11] Cm7; 
+6] Gm7;                   12] C#m7;
+
+**Lesson on Inversions: 
+_Using Moondance by Van Morrison as an example, I'II start by showing how the melody of the chorus can be played with inversions. 
+We'll see how the four shapes of chord inversions share a common structure.
+We'll look at how Am7 and Dm7 inversions are laid out on the fretboard and how to switch between those two chords._ 
+IMAGE:am7dm7.jpeg |  | large 
+
+### How To Play Dom Chords
+There are really only four shapes to the Dominant 7 chord. The four chords we are working with are C7, A7, G7, F7.
+IMAGE:dom1.jpeg |  | large  
+IMAGE:dom2.jpeg |  | large  
+
+#### C7 Shape
+##### Top Fret Number: 
+0] Cm7;                    6] F#m7; 
+1] C#m7;                   7] Gm7; 
+2] Dm7;                     8] Abm7; 
+3] Ebm7;                   9] Am7; 
+4] Em7;                   10] Bbm7; 
+5] Fm7;                    11] Bm7; 
+            A7 Shapes
+Top Fret Number: 
+0] Am7;                    6] Ebm7; 
+1] Bbm7;                   7] Em7; 
+2] Bm7;                    8] Fm7; 
+3] Cm7;                    9] F#m7; 
+4] C#m7;                10] Gm7; 
+5] Dm7;                   11] Abm7; 
+            G7 Shapes
+Top Fret Number: 
+0] Em7;                     6] Bbm7; 
+1] Fm7;                      7] Bm7; 
+2] F#m7;                   8] Cm7; 
+3] Gm7;                     9] C#m7; 
+4] Abm7;                  10] Dm7; 
+5] Am7;                     11] Ebm7; 
+            F7 Shapes
+Top Fret Number: 
+1] Fm7;                     7] Bm7; 
+2] F#m7;                  8] Cm7; 
+3] Gm7;                    9] C#m7; 
+4] Abm7;                10] Dm7; 
+5] Am7;                   11] Ebm7; 
+6] Bbm7;                 12] Em7;
+**Lesson on Inversions: 
+Using a 12 bar blues as an example, I'II start by showing it can be played with inversions. 
+ 
+We'll see how the four shapes of chord inversions share a common structure.
+We'll look at how C7 F7 and G7 inversions are laid out on the fretboard and how to switch between those chords. 
+ 
+
+
+### How To Play Maj7 Chords
+There are really only three shapes to the major 7 chord. The three chords we are working with are Gmaj7, Cmaj7, and Bbmaj7, although not often played unless you have low G tuning.
+  
+#### Gmaj7 Shape
+##### Top Fret Number: 
+0] Gmaj7;                 6] C#maj7;  
+1] Abmaj7;                7] Dmaj7; 
+2] Amaj7;                  8] Ebmaj7; 
+3] Bbmaj7;                9] Emaj7; 
+4] Bmaj7;                 10] Fmaj7; 
+5] Cmaj7;                 11] F#maj7; 
+            Cmaj7 Shape
+Top Fret Number: 
+0] Cmaj7;                 6] F#maj7;  
+1] C#maj7;                7] Gmaj7; 
+2] Dmaj7;                  8] Abmaj7; 
+3] Ebmaj7;                9] Amaj7; 
+4] Emaj7;                 10] Bbmaj7; 
+5] Fmaj7;                  11] Bmaj7; 
+            Bbmaj7 Shape
+Top Fret Number: 
+0] Bbmaj7;                6] Emaj7;  
+1] Bmaj7;                   7] Fmaj7; 
+2] Cmaj7;                  8] F#maj7; 
+3] C#maj7;                9] Gmaj7; 
+4] Dmaj7;                 10] Abmaj7; 
+5] Ebmaj7;                11] Amaj7; 
+**Lesson on Maj7: 
+Using Waiting in Vain by Bob Marley as an example.
+
+Fundamental Chords in Jazz: The 2-5-1 Guide
+            Major 2-5-1:   
+1: iim7 -> V7 -> Imaj7… 🎯: C,Db
+Eg. Dm7 -> G7 -> Cmaj7
+ 
+2: iim7 -> V7 -> Imaj7… 🎯: D,Eb,E,F,F#
+Eg. Em7 -> A7 -> Dmaj7
+ 
+3: iim7 -> V7 -> Imaj7… 🎯: G,Ab,A,Bb,B
+Eg. Am7 -> D7 -> Gmaj7 
+ 
+4: iim7 -> V9 -> Imaj7… 🎯: Ab,A,Bb,B
+Eg. Bbm7 -> Eb9 -> Abmaj7
+ 
+
+            Minor 2-5-1:                  
+1: iiø -> V7 -> Im7… 🎯: Bm7,Cm7
+Eg. C#ø -> F#7 -> Bm7
+ 
+2: iiø -> V7 -> Im7… 🎯: Dbm7
+Eg. Ebø -> Ab7 -> Dbm7
+ 
+3: iiø -> V7 -> Im7…  🎯: Dm7,Ebm7,Em7
+Eg. Fø -> Bb7 -> Ebm7
+ 
+4: iiø -> V7 -> Im7…  🎯: F,F#,G,Ab,A,Bb
+Eg. G#ø -> C#7 -> F#m7
+ 
+
+Major Chords
+C, F and A Shapes
+Fret No.: 0]C; 1]C#; 2]D; 3]Eb; 4]E;
+ 
+Fret No.: 0]F; 1]F#; 2]G; 3]Ab; 
+ 
+Fret No.: 0]A; 1]Bb; 2]B;
+ 
+
+Minor Chords
+Am, Dm, F#m and [Open: Fm] Shapes
+Fret: 0]Am; 1]Bbm; 2]Bm; 3]Cm; 4]C#m;
+ 
+Fret: 0]Dm; 1]Ebm; 2]Em; 
+ 
+Fret: 0]Fm; 
+ 
+Fret: 0]F#; 1]G; 2]Ab;
+ 
+
+Minor 7b5 Chords
+C#ø, Eø and Gø Shapes
+Fret: 0]C#ø; 1]Dø; 2]Ebø;
+ 
+Fret: 0]Eø; 1]Fø; 2]F#ø;
+ 
+Fret: 0]Gø; 1]Abø; 2]Aø; 3]Bbø; 4]Bø; 5]Cø;
+ 
+
+Dominant 9 Chords
+A9, C9 and Eb9 Shapes
+Fret: 0]A9; 1]Bb9; 2]B9;
+ 
+Fret: 0]C9; 1]C#9; 2]D9;
+ 
+Fret: 0]Eb9; 1]E9; 2]F9; 3]F#9; 4]G9; 5]Ab9;
+ 
+
+Diminished 7 Chords
+C#°7 Shapes
+Fret: 0](C#,E,G,Bb)°7; 1](D,F,Ab,B)°7; 2](Eb,Gb,A,C)°7;
+ 
