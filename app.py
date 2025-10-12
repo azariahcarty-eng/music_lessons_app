@@ -1,5 +1,6 @@
 import streamlit as st
 from pathlib import Path
+import re
 
 # --- CONFIG ---
 st.set_page_config(page_title="Music Lessons 🎵", layout="wide")
@@ -43,7 +44,6 @@ def display_lesson(file_path: Path):
 
             width = 600 if size_tag == "large" else 400
 
-            # Support URLs and local images
             if image_name.startswith("http"):
                 st.image(image_name, caption=caption, width=width)
             else:
@@ -53,15 +53,15 @@ def display_lesson(file_path: Path):
                 else:
                     st.warning(f"⚠ Image not found: {image_path}")
 
-        # --- HEADINGS ---
-        elif line.startswith("### "):
-            st.markdown(f"### {line[4:]}")
-        elif line.startswith("## "):
-            st.markdown(f"## {line[3:]}")
-        elif line.startswith("# "):
-            st.markdown(f"# {line[2:]}")
+        # --- HEADING HANDLING ---
         else:
-            st.text(line)  # use st.text to preserve spaces exactly
+            heading_match = re.match(r'^(#{1,6})\s+(.*)', line)
+            if heading_match:
+                level = len(heading_match.group(1))
+                content = heading_match.group(2)
+                st.markdown(f'{"#"*level} {content}')
+            else:
+                st.text(line)  # preserves spaces exactly
 
 # --- HOME PAGE ---
 if section == "Home":
