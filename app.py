@@ -5,13 +5,9 @@ from pathlib import Path
 st.set_page_config(page_title="Music Lessons 🎵", layout="wide")
 
 # --- DIRECTORIES ---
-BASE_DIR = Path("C:/music_lessons_app")
+BASE_DIR = Path(__file__).parent
 LESSONS_DIR = BASE_DIR / "lessons"
 IMAGES_DIR = BASE_DIR / "images"
-
-# Ensure folders exist
-for d in [LESSONS_DIR, IMAGES_DIR]:
-    d.mkdir(parents=True, exist_ok=True)
 
 # --- SIDEBAR ---
 st.sidebar.title("🎶 Music Lessons")
@@ -19,7 +15,7 @@ section = st.sidebar.radio("Choose Instrument", ["Home", "Piano", "Guitar", "Uku
 
 # --- DISPLAY FUNCTION ---
 def display_lesson(file_path: Path):
-    """Render a .txt lesson with headings and images, supporting '| large' for select images."""
+    """Render a .txt lesson with headings and images, supporting '| large' for images."""
     if not file_path.exists():
         st.error(f"Lesson not found: {file_path}")
         return
@@ -28,11 +24,12 @@ def display_lesson(file_path: Path):
         lines = f.readlines()
 
     for line in lines:
-        line = line.strip()
-        if not line:
+        line = line.rstrip("\n")  # preserve spaces at end
+        if not line.strip():
+            st.text(" ")  # maintain blank lines
             continue
 
-        # --- IMAGES ---
+        # --- IMAGE HANDLING ---
         if line.lower().startswith("image:"):
             parts = line.split(":", 1)
             if len(parts) < 2 or not parts[1].strip():
@@ -44,7 +41,6 @@ def display_lesson(file_path: Path):
             caption = image_parts[1].strip() if len(image_parts) > 1 else ""
             size_tag = image_parts[2].strip().lower() if len(image_parts) > 2 else "normal"
 
-            # Determine width
             width = 600 if size_tag == "large" else 400
 
             # Support URLs and local images
@@ -65,7 +61,7 @@ def display_lesson(file_path: Path):
         elif line.startswith("# "):
             st.markdown(f"# {line[2:]}")
         else:
-            st.markdown(line)
+            st.text(line)  # use st.text to preserve spaces exactly
 
 # --- HOME PAGE ---
 if section == "Home":
@@ -102,6 +98,5 @@ else:
 
             lesson_file = lessons[lesson_names.index(selected_lesson)]
 
-            # Display selected lesson
             st.subheader(selected_lesson)
             display_lesson(lesson_file)
