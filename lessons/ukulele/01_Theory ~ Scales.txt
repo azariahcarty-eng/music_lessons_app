@@ -1,0 +1,24 @@
+### Notes
+There are only 12 musical notes. The note names repeat as the notes go higher in pitch.
+### Ukulele Fretboard
+IMAGE:ukulele_fretboard.png | Ukulele Fretboard
+### Ukulele Scales
+A scale is simply a sequence of musical notes that rises in pitch. A scale can start on any of the twelve musical notes. The most popular scale is the Major Scale.
+If we start a major scale on the note C, we call it the C major scale. When we play a C major scale, there are no sharps or flats. The notes are C - D - E - F - G - A - B - C.
+#### Major Scales
+IMAGE:major_scales.jpeg | Major Scale
+IMAGE:ukulele_scales.jpeg | Ukulele Scales
+#### Major Pentatonic Scale Shapes
+Below are the different positions of the C major pentatonic Uke scale (gCEA tuning), along with ascending tab patterns.
+IMAGE:major_pentatonic_#1.jpeg | Major Pentatonic Scale Postion #1
+IMAGE:major_pentatonic_#2.jpeg | Major Pentatonic Scale Postion #2
+IMAGE:major_pentatonic_#3.jpeg | Major Pentatonic Scale Postion #3
+IMAGE:major_pentatonic_#4.jpeg | Major Pentatonic Scale Postion #4
+IMAGE:major_pentatonic_#5.jpeg | Major Pentatonic Scale Postion #5
+#### Minor Pentatonic Scale Shapes
+Below are the different positions of the C minor pentatonic Uke scale (gCEA tuning), along with ascending tab patterns.
+IMAGE:minor_pentatonic_#1.jpeg | Minor Pentatonic Scale Postion #1
+IMAGE:minor_pentatonic_#2.jpeg | Minor Pentatonic Scale Postion #2
+IMAGE:minor_pentatonic_#3.jpeg | Minor Pentatonic Scale Postion #3
+IMAGE:minor_pentatonic_#4.jpeg | Minor Pentatonic Scale Postion #4
+IMAGE:minor_pentatonic_#5.jpeg | Minor Pentatonic Scale Postion #5

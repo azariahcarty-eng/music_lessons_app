@@ -1,0 +1,187 @@
+# Chord Progressions You Need To Know
+
+---
+
+## Chord Relationships
+Here are some tried-and-tested chord relationships that work well in sequence, displayed using the **Roman Numeral System**.
+
+---
+
+### Chord Progression #1
+**Key:** Gb major  
+**Scale:** Gb Ab Bb Cb Db Eb F Gb  
+1 w 2 w 3 h 4 w 5 w 6 w 7 h 1
+**Progression:** ~ 3m7 - 6m7 - 2m7 - 5maj - 1maj ~  
+
+| Chord   | Notes       |
+|---------|------------|
+| 5/1     | Db/Gb      |
+| 6m      | Ebm7       |
+| 2m      | Abm7       |
+| 5       | Db         |
+| 3m      | Bbm7       |
+| 6m      | Ebm7       |
+
+| Chord         | Notes           |
+|---------------|----------------|
+| 2m            | Abm7           |
+| 5, 7(#5#9)   | Db,F7(#5#9)    |
+| 3m            | Bbm7           |
+| 6m            | Ebm7           |
+| 2m            | Abm7           |
+
+| Chord               | Notes                     |
+|--------------------|---------------------------|
+| 5                  | Db                        |
+| 1                  | Gb                        |
+| 5/1 , 2m/1         | Db/Gb , Abm/Gb            |
+| 1                  | Gb                        |
+
+| Chord             | Notes           |
+|------------------|----------------|
+| 4/6 , 5/7        | Abm7/Eb, Db/F  |
+| 1                | Gb             |
+
+*May have heard in gospel song “I Do Worship” or pop song “Just To See Her.”*
+
+---
+
+### Chord Progression #2
+**Key:** D major  
+**Scale:** D E F# G A B C# D  
+1 w 2 w 3 h 4 w 5 w 6 w 7 h 1
+**Progression:** ~ 1 - 3 - 4 - b5 - 5 - 7 - 3 - 6 - 2 - 5 - 1 ~  
+
+| Chord | Notes       |
+|-------|------------|
+| 1     | D          |
+| 1/3   | D/F#       |
+| 4     | G          |
+| b5    | E/G#       |
+| 5     | A          |
+| 7m    | C#m7b5     |
+| 3     | F#7        |
+| 6m    | Bm7        |
+| 2m    | Em7        |
+|       | G/A        |
+| 1     | D          |
+
+*May have heard in gospel song “Why We Sing.”*
+
+---
+
+### Chord Progression #3
+**Key:** Eb major  
+**Scale:** Eb F G Ab Bb C D Eb  
+
+**Progression:** ~ 1maj9 - 7#5#9 - 3m11 - 2m7 - 5(13) - 1maj9 ~  
+
+| Chord      | Notes      |
+|------------|-----------|
+| 1maj9      | Ebmaj9    |
+| 7#5#9     | D7#5#9   |
+| 3m11       | Gm11      |
+| 2m7        | Fm7       |
+| 5(13)      | Bb(13)    |
+| 1maj9      | Ebmaj9    |
+
+*Altered voicing:*  
+1 7 3
+[1,5,7]{9,3,5,7} [3,b7]{#9,#5,#9} [b7,9,b3,5]{b7,9,11}
+6 2 5 1
+[3,b7,9]{3,6,9} [3,b7,9]{3,6,9} [b7,9,b3,5]{b7,9,11} [1,5,7]{9,3,5,7}
+
+
+---
+
+### Chord Progression #4
+**Key:** Bb major  
+**Scale:** Bb C D Eb F G Ab Bb  
+
+**Progression:** ~ (1-3-4)(2-5-1)(3-6-2)(4/5-5/7-1) ~  
+
+| Chord      | Notes       |
+|------------|------------|
+| 1maj9      | Bb         |
+| 3#5#9      | D7#5#9    |
+| 4maj7      | Ebmaj7    |
+| 2m7        | Cm7        |
+| 5(6/9)     | F(6/9)     |
+| 1maj9      | Bbmaj9     |
+| 3#5#9      | D7#5#9     |
+| 6m7        | Gm7        |
+| 2 7(9)    | C7(9)      |
+| 4/5        | Ebmaj7/F   |
+| 5/7        | Fsus2/A    |
+| 1          | Bb         |
+
+*May have heard in gospel song “Oh Give Thanks.”*
+
+---
+
+### Chord Progression #5
+**Key:** Ab major  
+**Scale:** Ab Bb C Db Eb F G Ab  
+
+**Progression:** ~ 1add2 - 7m7#5 - 6m7 - 5 - 4 - 1/3 - 2m7 - 5 - 1 ~  
+
+| Chord    | Notes       |
+|----------|------------|
+| 1add2    | Ab add2    |
+| 7m7#5    | Gm7#5      |
+| 6m7      | Fm7        |
+| 5        | Ebmaj      |
+| 4        | Dbmaj      |
+| 1/3      | Ab/C       |
+| 2m7      | Bbm7       |
+| 5        | Ebmaj      |
+| 1        | Abmaj      |
+
+*May have heard in gospel songs “No Weapon” or “There is None Like You.”*
+
+---
+
+### Chord Progression #6
+**Key:** C major  
+**Scale:** C D E F G A B C  
+
+**Progression:** ~ (1/5-4-3)(5m7-1-4)(b7-b6)(1/5-6-2-5-1) ~  
+
+| Chord    | Notes        |
+|----------|-------------|
+| 1/5      | C/G         |
+| 4        | Fmaj        |
+| 1/3 3m   | C/E Em7     |
+| 5m 1     | Gm7 C       |
+| 4        | Fmaj7       |
+| b7(6/9)  | Bb7(6/9)    |
+| b7(6/b5) | Ab7(6/b5)   |
+| 1/5      | C/G         |
+| 6m       | Am7         |
+| 2m       | Dm7         |
+| 5        | Gmaj        |
+| 1        | Cmaj        |
+
+*May have heard in gospel song “Let the Church Say Amen.”*
+
+---
+
+## Common Chord Progressions
+- I V vi IV  
+- I IV vi V  
+- I ii7 I6 IV  
+- I vi IV V  
+- I vi ii V  
+- vi IV I V  
+- I III IV iv  
+- IV iv I  
+- i bVI i v  
+- i bVII iv V  
+- i bVI bVII v  
+- i bVII v bVI  
+- i bIII bVII IV  
+- I V ii IV  
+- IV I V vi  
+- I bVII IV I  
+- i bVII bVI V
+

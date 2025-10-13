@@ -1,0 +1,8 @@
+IMAGE:circle_of_fifths.jpeg | Circle Of Fifths
+IMAGE:scale_degrees.jpeg | 
+#### Relative Minor Keys
+Each major key has a relative minor key, which contains exactly the same notes. To find the relative mine submediant (sixth) note of the major scale. For example, the relative minor of C major, is A minor.
+#### Key Signatures
+IMAGE:key_sig.jpeg |
+With standard music notation, the first thing we see to the right of the clef, is the key signature. This tells us which notes are to be played as sharps or flats, and consequently which key the music is in. Here are the key signatures.
+IMAGE:key_sig2.jpeg |

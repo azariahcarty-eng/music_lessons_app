@@ -1,0 +1,18 @@
+### Chords
+A **chord** is when you play **3 or more notes together**. On the ukulele, we have four strings, so it’s ideal to play chords. Strumming chords is a good way to accompany melody.
+#### Basic Chord Chart
+IMAGE:Basic_Chord_Chart.jpeg | Basic Chord Chart
+### Chord Families – Harmonising The Major Scale
+##### What’s a chord family?
+Imagine chords are **friends who like to play together**. Some friends like each other a lot, so they play together often in songs. That group of friends is called a **chord family**.  
+##### The “Home Chord”
+Every chord family has a **home chord**. This is like the **main friend**. 
+In the key of **C**, the home chord is **C major**.  
+It feels comfy and complete. 🏠
+##### Other friends in the family
+- **C major** = Home friend (I chord)  
+- **F major** and **G major** = Close friends who love to visit home (IV & V chords)  
+- **Dm, Em, Am** = Softer friends, a little quieter (ii, iii, vi chords)  
+- **Bdim** = Tiny, tense friend who wants to go back home (vii° chord)  
+**C family chords:**  
+C, Dm, Em, F, G, Am, Bdim

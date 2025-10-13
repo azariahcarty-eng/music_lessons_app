@@ -1,0 +1,28 @@
+### Notes
+There are only 12 musical notes. The note names repeat as the notes go higher in pitch.
+#### Guitar Fretboard
+IMAGE:guitar_fretboard.png | Guitar Fretboard
+### Guitar Scales
+A scale is simply a sequence of musical notes that rises in pitch. A scale can start on any of the twelve musical notes. The most popular scale is the Major Scale.
+If we start a major scale on the note C, we call it the C major scale. When we play a C major scale, there are no sharps or flats. The notes are C - D - E - F - G - A - B - C.
+#### Major Scales
+IMAGE:major_scales.jpeg | Major Scale
+IMAGE:guitar_scales.jpeg | Guitar Scales
+#### Pentatonic Scale Shapes
+IMAGE:rec_stack(1).jpeg | Guitar Scales
+IMAGE:rec_stack(2).jpeg | Guitar Scales
+IMAGE:rec_stack(3).jpeg | Guitar Scales
+IMAGE:rec_stack(4).jpeg | Guitar Scales
+#### Major Pentatonic Scale Shapes
+_There are five common pentatonic scale shapes, often connected to the CAGED system, that can be played across the entire fretboard._
+IMAGE:maj_penta_e_pattern.jpeg | E Caged Pattern
+IMAGE:maj_penta_d_pattern.jpeg | D Caged Pattern
+IMAGE:maj_penta_c_pattern.jpeg | C Caged Pattern
+IMAGE:maj_penta_a_pattern.jpeg | A Caged Pattern
+IMAGE:maj_penta_g_pattern.jpeg | G Caged Pattern
+#### Minor Pentatonic Scale Shapes
+IMAGE:min_penta_e_pattern.jpeg | E Caged Pattern
+IMAGE:min_penta_d_pattern.jpeg | D Caged Pattern
+IMAGE:min_penta_c_pattern.jpeg | C Caged Pattern
+IMAGE:min_penta_a_pattern.jpeg | A Caged Pattern
+IMAGE:min_penta_g_pattern.jpeg | G Caged Pattern

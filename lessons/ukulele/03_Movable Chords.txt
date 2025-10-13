@@ -1,0 +1,30 @@
+### Major Chords
+##### C, F and A Shapes
+**Fret No.:** 0]C;&nbsp;&nbsp;&nbsp; 1]C#;&nbsp;&nbsp;&nbsp; 2]D;&nbsp;&nbsp;&nbsp; 3]Eb;&nbsp;&nbsp;&nbsp; 4]E;
+IMAGE:cmaj.jpeg | C Major | small 
+**Fret No.:** 0]F;&nbsp;&nbsp;&nbsp; 1]F#;&nbsp;&nbsp;&nbsp; 2]G;&nbsp;&nbsp;&nbsp; 3]Ab; 
+IMAGE:fmaj.jpeg | F Major | small 
+**Fret No.:** 0]A;&nbsp;&nbsp;&nbsp; 1]Bb;&nbsp;&nbsp;&nbsp; 2]B;
+IMAGE:amaj.jpeg | A Major | small 
+### Minor Chords
+##### Am, Dm, F#m and [Open: Fm] Shapes
+**Fret No.:** 0]Am;&nbsp;&nbsp;&nbsp; 1]Bbm;&nbsp;&nbsp;&nbsp; 2]Bm;&nbsp;&nbsp;&nbsp; 3]Cm;&nbsp;&nbsp;&nbsp; 4]C#m;
+IMAGE:amin.jpeg | A Minor | small 
+**Fret No.:** 0]Dm;&nbsp;&nbsp;&nbsp; 1]Ebm;&nbsp;&nbsp;&nbsp; 2]Em; 
+IMAGE:dmin.jpeg | D Minor | small 
+**Fret No.:** 0]Fm; 
+IMAGE:fmin.jpeg | F Minor | small 
+**Fret No.:** 0]F#m;&nbsp;&nbsp;&nbsp; 1]Gm;&nbsp;&nbsp;&nbsp; 2]Abm;
+IMAGE:f#min.jpeg | F# Minor | small 
+### Minor 7b5 Chords
+##### C#ø, Eø and Gø Shapes
+**Fret No.:** 0]C#ø; 1]Dø; 2]Ebø;
+IMAGE:c#m7b5.jpeg | C# min7b5  | small 
+**Fret No.:** 0]Eø; 1]Fø; 2]F#ø;
+IMAGE:em7b5.jpeg | E min7b5 | small 
+**Fret No.:** 0]Gø; 1]Abø; 2]Aø; 3]Bbø; 4]Bø; 5]Cø;
+IMAGE:gm7b5.jpeg | G min7b5 | small
+### Diminished 7 Chords
+##### C#°7 Shapes
+**Fret No.:** 0](C#,E,G,Bb)°7; 1](D,F,Ab,B)°7; 2](Eb,Gb,A,C)°7;
+IMAGE:c#dim7.jpeg | C# dim7 | small 

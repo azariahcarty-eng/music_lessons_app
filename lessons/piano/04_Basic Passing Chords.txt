@@ -1,0 +1,184 @@
+# Basic Passing Chords
+
+---
+
+## Approaches
+- **Higher or Lower**  
+  - Any chord can be preceded by a **Dominant chord ½ step higher**.  
+  - Any chord can be preceded by a **Diminished 7th chord ½ step higher or lower**.  
+
+- **Circle of Fourths Harmony**  
+  - Any chord can be preceded by its **dominant chord**.  
+  - Any dominant chord preceded by its **minor 2 chord**.  
+
+- **Borrowed 2-5-1 Chord Progressions**  
+  - Using **diatonic roots** from other scales.
+
+---
+
+## 1. Dominant 7th Passing Chords
+**Key:** Ab major  
+**Scale:** Ab Bb C Db Eb F G Ab  
+
+
+Starting with the basic chord progression **1-6-4-5-1** (e.g., *“How Great Is Our God”*):
+
+| Chord | Notes       |
+|-------|------------|
+| 1     | Ab2        |
+| 6m    | Fm7        |
+| 4     | Dbmaj7     |
+| 5     | Ebmaj      |
+| 1     | Ab         |
+
+**Target Chord: Add Dominant 7th ½ step higher**  
+
+| Chord | Notes             |
+|-------|-----------------|
+| 1     | Ab2             |
+| 6m    | Fm7             |
+| #4(69#11) | D(6,9,#11) |
+| 4     | Dbmaj7          |
+| 5     | Eb              |
+| 1     | Ab              |
+
+| Chord | Notes           |
+|-------|----------------|
+| 1     | Ab2            |
+| #6(7b9) | F#(7b9)      |
+| 6m    | Fm7            |
+| 4     | Dbmaj7         |
+| 5     | Eb             |
+| 1     | Ab             |
+
+| Chord | Notes           |
+|-------|----------------|
+| 1     | Ab2            |
+| 6m    | Fm7            |
+| 4     | Dbmaj7         |
+| #5(7) | E(9)           |
+| 5     | Eb             |
+| 1     | Ab             |
+
+| Chord | Notes           |
+|-------|----------------|
+| 1     | Ab2            |
+| 6m    | Fm7            |
+| 4     | Dbmaj7         |
+| 5     | Eb             |
+| #1(7) | A7             |
+| 1     | Ab             |
+
+---
+
+## 2. Diminished 7th Passing Chords
+**Key:** Ab major  
+
+| Chord | Notes           |
+|-------|----------------|
+| 1     | Ab2             |
+| 6m    | Fm7             |
+| 4     | Dbmaj7          |
+| 5     | Ebmaj           |
+| 1     | Ab              |
+
+**Approach using Diminished 7th (½ step lower)**  
+
+| Chord | Notes           |
+|-------|----------------|
+| 1     | Ab2            |
+| b6°   | Edim7          |
+| 6m    | Fm7            |
+| b4°   | Cdim7          |
+| 4     | Dbmaj7         |
+
+| Chord | Notes           |
+|-------|----------------|
+| b5°   | Ddim7          |
+| 5     | Ebmaj          |
+| b1°   | Gdim7          |
+| 1     | Abmaj          |
+
+---
+
+## 3. Dominant of Target Passing Chords
+**Key:** Ab major  
+
+Starting with **1-6-4-5-1**:
+
+| Chord | Notes        |
+|-------|-------------|
+| 1     | Ab2         |
+| 6m    | Fm7         |
+| 4     | Dbmaj7      |
+| 5     | Ebmaj       |
+| 1     | Ab          |
+
+**Target chord preceded by its Dominant:**
+
+| Chord | Notes       |
+|-------|------------|
+| 1     | Ab2        |
+| V/6   | C7         |
+| 6m    | Fm7        |
+| V/4   | Ab7        |
+| 4     | Dbmaj7     |
+
+| Chord | Notes       |
+|-------|------------|
+| V/5   | Bb7        |
+| 5     | Ebmaj      |
+| 1     | Abmaj      |
+
+**Target chord preceded by Altered Dominant:**
+
+| Chord | Notes           |
+|-------|----------------|
+| 1     | Ab2             |
+| V/6   | C7(#9#5)       |
+| 6m    | Fm7             |
+| V/4   | Ab9(13)        |
+| 4     | Dbmaj7          |
+
+| Chord | Notes             |
+|-------|------------------|
+| V/5   | Bb7(b9b5)        |
+| 5     | Ebmaj             |
+| 1     | Abmaj             |
+
+---
+
+## 4 & 5. Borrowed 2-5-1 Passing Chords
+**Key:** Ab major  
+**Scale:** Ab Bb C Db Eb F G Ab  
+
+**Borrowed chords from:**  
+- **6th tone harmonic minor**: F G Ab Bb C Db Eb F  
+- **4th tone Ionian major**: Db Eb F Gb Ab Bb C Db  
+
+Starting with **1-6-4-5-1**:
+
+| Chord | Notes                 |
+|-------|----------------------|
+| 1     | Ab2                   |
+| 6m    | Fm7                   |
+| 4     | Dbmaj7                |
+| 5     | Ebmaj                 |
+| 1     | Ab                    |
+
+**Target chords (6 & 4) preceded by 2-5-1 progressions**  
+
+| Chord | Notes                       |
+|-------|-----------------------------|
+| 1     | Ab2                          |
+| ii/6 , V/6 | Gm7(b5), C7             |
+| 6m    | Fm7                          |
+| ii/4 , V/4 | Ebm7, Ab7                |
+
+| Chord | Notes                        |
+|-------|------------------------------|
+| 4     | Dbmaj7                       |
+| ii    | Bbm7                         |
+| 5     | Ebmaj                        |
+| 1     | Abmaj                        |
+

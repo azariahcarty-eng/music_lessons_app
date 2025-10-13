@@ -1,0 +1,28 @@
+#### Fundamental Chords in Jazz
+##### Major 2-5-1:   
+**1: iim7 -> V7 -> Imaj7… 🎯: C, Db**
+_Eg. Dm7 -> G7 -> Cmaj7_
+IMAGE:maj251(1).jpg | | large 
+**2: iim7 -> V7 -> Imaj7… 🎯: D, Eb, E, F, F#**
+_Eg. Em7 -> A7 -> Dmaj7_
+IMAGE:maj251(2).jpg | | large  
+**3: iim7 -> V7 -> Imaj7… 🎯: G, Ab, A, Bb, B**
+_Eg. Am7 -> D7 -> Gmaj7_
+IMAGE:maj251(3).jpg | | large  
+**4: iim7 -> V9 -> Imaj7… 🎯: Ab, A, Bb, B**
+_Eg. Bbm7 -> Eb9 -> Abmaj7_
+IMAGE:maj251(4).jpg | | large  
+
+##### Minor 2-5-1:                  
+**1: iiø -> V7 -> Im7… 🎯: Bm7, Cm7**
+_Eg. C#ø -> F#7 -> Bm7_ 
+IMAGE:min251(1).jpg | | large 
+**2: iiø -> V7 -> Im7… 🎯: Dbm7**
+_Eg. Ebø -> Ab7 -> Dbm7_
+IMAGE:min251(2).jpg | | large 
+**3: iiø -> V7 -> Im7…  🎯: Dm7, Ebm7, Em7**
+_Eg. Fø -> Bb7 -> Ebm7_
+IMAGE:min251(3).jpg | | large  
+**4: iiø -> V7 -> Im7…  🎯: Fm7, F#m7, Gm7, Abm7, Am7, Bbm7**
+_Eg. G#ø -> C#7 -> F#m7_
+IMAGE:min251(4).jpg | | large 
