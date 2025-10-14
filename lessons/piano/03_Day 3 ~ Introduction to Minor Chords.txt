@@ -1,0 +1,71 @@
+We learned how to play major chords and focused on three major chords to practice: C, F, and G.
+There are actually a lot of songs that use that exact chord progression, particularly among the “golden oldies”! Songs from artists such as Chuck Berry (“Johnny B. Good”) and The Beatles (“Twist and Shout,” “Love Me Do”) are great examples of this.
+In the 1960s and 70s, popular music began to add more minor chords to their chord progressions. Minor chords sound moodier or more emotional than major chords, so adding them in allows for more expressiveness and variation in tone.
+_But before we try to play our first minor chords, we need to learn one more neat fact about the major chords._
+##### Forming any Major Chord
+IMAGE:day3.1.jpeg | | normal 
+To use the 4-3 formula, you need to know which major chord you are supposed to play. Then you will follow these steps:
+- Place your thumb on the “root note,” aka the note the chord is named after.
+- Count four notes to the right (including the black keys) and place your next finger there.
+- Count three more notes to the right (still including the black keys) and place your next finger there.
+- Press all three notes together, and you have played a major chord!
+IMAGE:day3.2.jpeg | | normal 
+##### Forming any Minor Chord
+IMAGE:day3.3.jpeg | | normal 
+As with the major chords, to use the 3-4 formula you need to know which minor chord you are supposed to play. Then follow these steps:
+- Place your thumb on the “root note,” aka the note the chord is named after.
+- Count three notes to the right (including the black keys), and place your next finger there.
+- Count four more notes to the right (including the black keys), and place your next finger there.
+- Press all three notes together, and you have played a minor chord!
+**D-Minor Chord**
+Our first minor chord example is D minor. 
+Notes of the D-Minor chord: D, F, A.
+Let’s try our 3-4 minor chord formula with a D-minor chord.
+- Place your thumb on the “root note,” aka the note the chord is named after. For our D-minor chord, the root note is D.
+- Count three notes to the right (this will be the F key), and place your next finger there.
+- Count four more notes to the right (this will be the A key), and place your next finger there.
+- Press all three notes together, and you have played a D-minor chord!
+IMAGE:day3.4.jpeg | | normal 
+**E-Minor Chord**
+Our next chord example is E minor. 
+Notes of the E-minor chord: E, G, B.
+IMAGE:day3.5.jpeg | | normal 
+**A-Minor Chord**
+Our next chord example is A minor. 
+Notes of the A-minor chord: A, C, E.
+IMAGE:day3.6.jpeg | | normal 
+**More About Chord Notation**
+We learned that a major chord can commonly be written as just a capital letter. Minor chords are different: they will always be written with either “minor” or a lowercase “m” following the name of the root chord.
+So for example, a D-major chord is written as “D.” The D-minor chord is written as “Dm.” A C-major chord is written as “C.” The C-minor chord is written as “Cm.”
+_Here is an example chord chart from part of “House of the Rising Sun” by The Animals:_
+IMAGE:day3.7.jpeg | | normal 
+We haven’t learned every chord in the example above, but I’m showing you this image so you can see the difference in the way major and minor chords are denoted on chord charts.
+##### The 4-Chord Song
+An Australian band called Axis of Awesome figured out that there’s a huge list of popular songs that use exactly the same chord progression. The band made a video where they play that same chord progression over and over again while singing a mashup of lyrics from the various songs.
+In the last exercise from the previous lesson, I asked you to watch a video of them performing that “song.”
+Now that you’ve seen it, hopefully you are beginning to recognize how powerful chords can be. With the same four chords, they were able to play over 36 super-popular songs.
+_I’ll share with you what those four chords are, so you can begin to do the same: they are C major, G major, A minor, and F major. Yep— you’ve already learned all four of those!_
+IMAGE:day3.8.jpeg | | normal 
+---
+##### Exercise 3.1 – Call and Response 
+Play Dm, Em, Am after hearing names. 
+##### Exercise 3.2 – Practice all 6 chords
+Use the audio exercise to practice all six chords we have learned to this point.
+**Medium** 
+video:3.2medium.mp4 | | small
+**Fast**
+video:3.2fast.mp4 | | small
+##### Exercise 3.3: – Backing Track 1 
+Play along with the backing track, which includes all six chords we have learned at this point.
+**Slow**
+video:3.3slow.mp4 | | small
+**Medium** 
+video:3.3medium.mp4 | | small
+**Fast**
+video:3.3fast.mp4 | | small
+##### Exercise 3.4 – “The 4-Chord Song”
+Play along with the backing track, which is essentially “The 4-Chord Song.”
+**Medium** 
+video:3.4medium.mp4 | | small
+**Fast**
+video:3.4fast.mp4 | | small

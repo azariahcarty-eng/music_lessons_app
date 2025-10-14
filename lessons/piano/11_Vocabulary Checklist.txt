@@ -1,6 +1,6 @@
 _"You don't need to read sheet music to make music at the piano. You didn't learn to read before you could talk. You don't have to read music to be able to make music. Playing by ear does not mean playing without knowledge or understanding. Learn how to build chords and play the common patterns you need to know to play the songs you like."_
 
-### Basic Music Vocabulary
+#### Basic Music Vocabulary
 1. Note Names
 2. Major Scale
 3. Minor Scale
@@ -12,7 +12,7 @@ _"You don't need to read sheet music to make music at the piano. You didn't lear
 9. Circle of Fourths/Fifths
 10. The Number System
 
-### Intermediate Music Vocabulary
+#### Intermediate Music Vocabulary
 1. Basic Music Vocabulary
 2. Two Hand Chord Voicing
 3. Slash Chords
@@ -22,7 +22,7 @@ _"You don't need to read sheet music to make music at the piano. You didn't lear
 7. Basic Licks
 8. Chord Patterns
 
-### Advanced Music Vocabulary
+#### Advanced Music Vocabulary
 1. Basic Music Vocabulary
 2. Intermediate Music Vocabulary
 3. Chord Substitutions
@@ -31,12 +31,9 @@ _"You don't need to read sheet music to make music at the piano. You didn't lear
 6. Rootless Chords
 7. Altered Scales
 8. Diminished Scales
-
-
-
-# A Guide to Musical Fluency
-
-## Novice
+---
+### A Guide to Musical Fluency
+#### Novice
 1. Piano Notes
 2. Sharps and Flats
 3. Half Steps
@@ -45,7 +42,7 @@ _"You don't need to read sheet music to make music at the piano. You didn't lear
 6. Find the Tonic
 7. Play Simple Melodies
 
-## Beginner
+#### Beginner
 1. Major Scales
 2. Diatonic Triads
 3. Dominant 7th Chords
@@ -55,7 +52,7 @@ _"You don't need to read sheet music to make music at the piano. You didn't lear
 7. Suspended Chords
 8. Diminished Triads
 
-## Competent
+#### Competent
 1. Root Position 7ths
 2. Root Position 9ths
 3. Major 9 #11 Chords
@@ -70,7 +67,7 @@ _"You don't need to read sheet music to make music at the piano. You didn't lear
 12. Basic Modes
 13. Basic Rhythm Patterns
 
-## Intermediate
+#### Intermediate
 1. Chords with Extensions
 2. Drop 2 7th Chords
 3. 21 Modes in Every Key
@@ -79,7 +76,7 @@ _"You don't need to read sheet music to make music at the piano. You didn't lear
 6. Transcribe Most Songs
 7. Play Most Songs in Multiple Keys
 
-## Advanced
+#### Advanced
 1. Bebop Scales and Licks
 2. Blues and Gospel Licks
 3. Diminished Scales and Voicing

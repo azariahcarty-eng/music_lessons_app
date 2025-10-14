@@ -1,0 +1,8 @@
+You need to memorize exactly one set of 12 keys
+IMAGE:day1.1.jpeg | | large 
+Looking at the white keys, the musical alphabet starts at A and continues through G. After G, letters start back at A.
+IMAGE:day1.2.jpeg | | large  
+C is a very easily identifiable note when you look at your keys - just to the left of the cluster of two black keys.
+##### Exercise 1:
+- Play a white key, at random, on command.
+Practice this until you can keep up with the fastest version of the exercise.

@@ -1,0 +1,52 @@
+_My end goal for you in this journey is to play songs. Playing the piano is all about playing songs. In fact one of my many gripes about traditional lessons is that you typically spend far too much time doing things on the piano that do not include actually playing songs._
+_But I can't just start teaching you songs from the start. We have to put the building blocks in place first. On Day 1, we started learning the individual notes on the piano. Next, I will show you how to play mulyiple notes at the same time-- that's called a chord. Then, when we play a sequence of chords, we have a chord progression. And if we put the chord progressions together... BINGO! We have a song._
+IMAGE:day2.2.jpeg | | large 
+For our purposes, a chord is simply multiple notes that are played at the same time. Typically there are three notes in a chord, which is why they can also be called **“triads.”**
+We will focus on **Major chords** are so common that you’re unlikely to find any songs without them! They are the brighter, more straightforward-sounding chords and have a happy or “lighter” tone.
+**C-Major Chord**
+Our first chord example is C major. There are three notes in this chord.
+Notes of the C-major chord: C, E, G.
+Which fingers should you use to play chords? You have several options:
+IMAGE:day2.3.jpeg | | large 
+Option three (thumb, index finger, middle finger) allows us the most versatility when we learn more advanced concepts in future lessons. I strongly encourage you to make option three work if you can. But if you have very small hands or reduced mobility then you can certainly use one of the other two options.
+**F-Major Chord**
+Now that you have found the fingering you feel is the best fit for you, our next chord example is F major. 
+Notes of the F-major chord: F, A, C.
+IMAGE:day2.4.jpeg | | large 
+**G-Major** 
+Our next chord example is G major. 
+Notes of the G-major chord: G, B, D.
+IMAGE:day2.5.jpeg | | large 
+**How to strike the keys**
+It’s important to press with the tips of your finger, rather than the pads of your fingers.
+IMAGE:day2.6.jpeg | | large 
+##### Chord Notation and Major Chords
+IMAGE:day2.7.jpeg | | large 
+---
+#### Chord Progressions
+Since songs have more than one chord in them, every time you play a song you will be playing a sequence of chords. Most of the time, there will be separate sequences that repeat for different parts of the song. Every sequence is called a “chord progression.” So if you play the three chords we learned today in a sequence, you have played a chord progression!
+##### Exercise 2.1 – Call and Response
+Play each chord after hearing its name (C, F, G).
+##### Exercise 2.2 – Backing Track 1 
+A new, fun, and exciting way to practice: backing tracks. A backing track is a version of the song featuring other musical instruments that is designed for you to play along with. It will also show you which chords to play and when. In this exercise, you will play along with the first backing track I have for you.
+**Slow**
+video:2.2slow.mp4 | | small
+**Medium** 
+video:2.2medium.mp4 | | small
+**Fast**
+video:2.2fast.mp4 | | small
+##### Exercise 2.3 – Backing Track 2
+Play along with the second backing track. This one also uses only the three chords we have learned so far.
+**Medium** 
+video:2.3medium.mp4 | | small
+**Fast**
+video:2.3fast.mp4 | | small
+##### Exercise 2.4 – 12-Bar Blues 
+In this exercise, you will play along with the “12-Bar Blues” backing track. 12-Bar Blues is a very popular chord progression and has a bluesy, jazzy feel to it.
+**Medium** 
+video:2.4medium.mp4 | | small
+**Fast**
+video:2.4fast.mp4 | | small
+##### Exercise 2.5:
+Watch “The 4-Chord Song” by The Axis of Awesome. This is a fun video that will really show you the power of chords, and we’ll discuss it later.
+[🎥 The 4-Chord Song – Axis of Awesome](https://youtu.be/5pidokakU4I)
