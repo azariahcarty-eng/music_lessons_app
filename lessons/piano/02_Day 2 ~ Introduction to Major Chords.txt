@@ -30,15 +30,15 @@ Play each chord after hearing its name (C, F, G).
 ##### Exercise 2.2 – Backing Track 1 
 A new, fun, and exciting way to practice: backing tracks. A backing track is a version of the song featuring other musical instruments that is designed for you to play along with. It will also show you which chords to play and when. In this exercise, you will play along with the first backing track I have for you.
 **Slow**
-video:2.2slow.mp4 | | small
+video:2.2slow.mp4 | Backing Track 1 | small
 **Medium** 
-video:2.2medium.mp4 | | small
+video:2.2medium.mp4 | Backing Track 1 | normal
 **Fast**
-video:2.2fast.mp4 | | small
+video:2.2fast.mp4 | Backing Track 1 | 
 ##### Exercise 2.3 – Backing Track 2
 Play along with the second backing track. This one also uses only the three chords we have learned so far.
 **Medium** 
-video:2.3medium.mp4 | | small
+video:2.3medium.mp4 | | large
 **Fast**
 video:2.3fast.mp4 | | small
 ##### Exercise 2.4 – 12-Bar Blues 
@@ -50,3 +50,4 @@ video:2.4fast.mp4 | | small
 ##### Exercise 2.5:
 Watch “The 4-Chord Song” by The Axis of Awesome. This is a fun video that will really show you the power of chords, and we’ll discuss it later.
 [🎥 The 4-Chord Song – Axis of Awesome](https://youtu.be/5pidokakU4I)
+video:https://youtu.be/5pidokakU4I| Nashville Numbers Explained | large

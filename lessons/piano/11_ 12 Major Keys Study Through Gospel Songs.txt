@@ -1,0 +1,89 @@
+1. Give Thanks - Eb Major
+2. What a Friend We Have In Jesus - Ab Major
+3. I Surrender All - Db Major 
+4. Tis So Sweet To Trust In Jesus - Gb Major 
+5. Near The Cross - B Major 
+6. By and By When The Morning Comes - E Major
+7. He Looked Beyond My Faults - A Major
+8. Jesus Loves Me - D Major 
+9. How Great Thou Art - G Major
+10. Blessed Assurance - C Major
+11. The Solid Rock - F Major
+12. Great Is Thy Faithfulness - Bb Major
+---
+### 1) Give Thanks: 
+Key: Eb major
+Scale: **Eb F G Ab Bb C D Eb**  
+**Diatonic Chords:**
+**EbM7 Fm7 Gm7 AbM7 Bb7 Cm7 Dm7b5**
+IMAGE:Eb_diatonic.png | | full
+**Basic Chord Progression:**
+IMAGE:givethanks1.jpeg | | large
+**Progression with Extended/Altered Chords:**
+IMAGE:givethanks2.jpeg | | large
+---
+### 2) What A Friend We Have In Jesus: 
+Key: Ab major
+Scale: **Ab Bb C Db Eb F G Ab**  
+**Diatonic Chords:** 
+**AbM7 Bbm7 Cm7 DbM7 Eb7 Fm7 Gm7b5**
+IMAGE:Ab_diatonic.png | | full
+**Basic Chord Progression:**
+IMAGE:whatafriend1.jpeg | | large
+**Progression with Extended/Altered Chords:**
+IMAGE:whatafriend2.jpeg | | large
+---
+### 3) I Surrender All: 
+Key: Db major
+Scale: **Db Eb F Gb Ab Bb C Db**  
+**Diatonic Chords:** 
+**DbM7 Ebm7 Fm7 GbM7 Ab7 Bbm7 Cm7b5**
+IMAGE:Db_diatonic.png | | full
+**Basic Chord Progression:**
+IMAGE:isurrenderall1.jpeg | | large
+**Progression with Extended/Altered Chords:**
+IMAGE:isurrenderall2.jpeg | | large
+---
+### 4) 'Tis So Sweet To Trust In Jesus: 
+Key: Gb major
+Scale: **Gb Ab Bb Cb Db Eb F Gb**  
+**Diatonic Chords:** 
+**GbM7 Abm7 Bbm7 CbM7 Db7 Ebm7 Fm7b5**
+IMAGE:Gb_diatonic.png | | full
+**Basic Chord Progression:**
+IMAGE:sosweet1.jpeg | | large
+**Progression with Extended/Altered Chords:**
+IMAGE:sosweet2.jpeg | | large
+---
+### 5) Near The Cross: 
+Key: B major
+Scale: **B C# D# E F# G# A# B**  
+**Diatonic Chords:** 
+**BM7 C#m7 D#m7 EM7 F#7 G#m7 A#m7b5**
+IMAGE:B_diatonic.png | | full
+**Basic Chord Progression:**
+IMAGE:nearthecross1.jpeg | | large
+**Progression with Extended/Altered Chords:**
+IMAGE:nearthecross2.jpeg | | large
+---
+### 6) By And By When The Morning Comes: 
+Key: E major
+Scale: **E F# G# A B C# D# E**  
+**Diatonic Chords:** 
+**EM7 F#m7 G#m7 AM7 B7 C#m7 D#m7b5**
+IMAGE:E_diatonic.png | | full
+**Basic Chord Progression:**
+IMAGE:byandby1.jpeg | | large
+**Progression with Extended/Altered Chords:**
+IMAGE:byandby2.jpeg | | large
+---
+### 7) He Looked Beyond My Faults: 
+Key: A major
+Scale: **A B C# D E F# G# A**  
+**Diatonic Chords:** 
+**AM7 Bm7 C#m7 DM7 E7 F#m7 G#m7b5**
+IMAGE:A_diatonic.png | | full
+**Basic Chord Progression:**
+IMAGE:helookedbeyond1.jpeg | | large
+**Progression with Extended/Altered Chords:**
+IMAGE:helookedbeyond2.jpeg | | large
