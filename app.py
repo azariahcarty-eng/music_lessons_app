@@ -5,43 +5,16 @@ import re
 # --- CONFIG ---
 st.set_page_config(page_title="Aza's School Of Music🎵", layout="wide")
 
-# --- GLOBAL STYLE (tight spacing, neat look) ---
+# --- GLOBAL STYLE (tight and clean) ---
 st.markdown("""
 <style>
-p, div {
-    line-height: 1.15 !important;
-    margin-top: 1px !important;
-    margin-bottom: 1px !important;
-}
-ul, ol {
-    margin-top: 1px !important;
-    margin-bottom: 1px !important;
-    padding-left: 15px !important;
-}
-li {
-    line-height: 1 !important;
-    margin-top: 0 !important;
-    margin-bottom: 0 !important;
-}
-h1, h2, h3, h4, h5, h6 {
-    margin-top: 2px !important;
-    margin-bottom: 1px !important;
-    line-height: 1.2 !important;
-    padding: 0 !important;
-}
-img, video, iframe {
-    margin-top: 1px !important;
-    margin-bottom: 1px !important;
-    border-radius: 10px;
-}
-.stMarkdown, .stMarkdown > div, .stMarkdown p {
-    margin-bottom: 0 !important;
-    padding-bottom: 0 !important;
-}
-.block-container {
-    padding-top: 2rem !important;
-    padding-bottom: 1rem !important;
-}
+p, div { line-height: 1.15 !important; margin-top: 1px !important; margin-bottom: 1px !important; }
+ul, ol { margin-top: 1px !important; margin-bottom: 1px !important; padding-left: 15px !important; }
+li { line-height: 1 !important; margin-top: 0 !important; margin-bottom: 0 !important; }
+h1, h2, h3, h4, h5, h6 { margin-top: 2px !important; margin-bottom: 1px !important; line-height: 1.2 !important; padding: 0 !important; }
+img, video { margin-top: 1px !important; margin-bottom: 1px !important; }
+.stMarkdown, .stMarkdown > div, .stMarkdown p { margin-bottom: 0 !important; padding-bottom: 0 !important; }
+.block-container { padding-top: 2rem !important; padding-bottom: 1rem !important; }
 </style>
 """, unsafe_allow_html=True)
 
@@ -54,7 +27,7 @@ IMAGES_DIR = BASE_DIR / "images"
 st.sidebar.title("Aza's School Of Music🎶")
 section = st.sidebar.radio("Choose Instrument", ["Home", "Piano", "Guitar", "Ukulele"])
 
-# --- LOAD LESSONS ---
+# --- LOAD LESSONS (cached) ---
 @st.cache_data
 def load_lesson(file_path: Path):
     try:
@@ -63,9 +36,9 @@ def load_lesson(file_path: Path):
     except Exception as e:
         return [f"⚠️ Error reading file: {e}"]
 
-# --- DISPLAY LESSON ---
+# --- DISPLAY FUNCTION ---
 def display_lesson(file_path: Path):
-    """Render lesson text with support for headings, markdown, images, and videos (MP4 + YouTube)."""
+    """Render .txt lessons with headings, Markdown, images, MP4 videos, and YouTube links."""
     if not file_path.exists():
         st.error(f"Lesson not found: {file_path}")
         return
@@ -75,19 +48,24 @@ def display_lesson(file_path: Path):
     for line in lines:
         line = line.rstrip("\n")
 
-        # --- Skip empty lines (tiny space) ---
+        # --- Skip empty lines ---
         if not line.strip():
             st.markdown("<div style='height:2px;'></div>", unsafe_allow_html=True)
             continue
 
         # --- IMAGE HANDLING ---
         if line.lower().startswith("image:"):
-            parts = [p.strip() for p in line.split(":", 1)[1].split("|")]
-            image_name = parts[0] if parts else ""
-            caption = parts[1] if len(parts) > 1 else ""
-            size_tag = parts[2].lower() if len(parts) > 2 else "normal"
+            parts = line.split(":", 1)
+            if len(parts) < 2 or not parts[1].strip():
+                st.warning("⚠️ IMAGE: line found but no filename provided.")
+                continue
 
-            size_map = {"small": 300, "normal": 400, "large": 600, "full": None}
+            image_parts = [p.strip() for p in parts[1].split("|")]
+            image_name = image_parts[0]
+            caption = image_parts[1] if len(image_parts) > 1 else ""
+            size_tag = image_parts[2].lower() if len(image_parts) > 2 else "normal"
+
+            size_map = {"small": 300, "normal": 400, "large": 600, "full": "stretch"}
             width = size_map.get(size_tag, 400)
 
             image_path = IMAGES_DIR / image_name
@@ -99,54 +77,40 @@ def display_lesson(file_path: Path):
                 st.warning(f"⚠️ Image not found: {image_path}")
             continue
 
-        # --- VIDEO HANDLING (MP4 + YouTube) ---
+        # --- VIDEO HANDLING ---
         if line.lower().startswith("video:"):
-            parts = [p.strip() for p in line.split(":", 1)[1].split("|")]
-            video_name = parts[0] if parts else ""
-            caption = parts[1] if len(parts) > 1 else ""
-            size_tag = parts[2].lower() if len(parts) > 2 else "normal"
-
-            size_map = {"small": 300, "normal": 400, "large": 600, "full": 720}
-            height = size_map.get(size_tag, 400)
-
-            # --- YouTube embed ---
-            if "youtu" in video_name.lower():
-                # Extract YouTube ID
-                youtube_id_match = re.search(r"(?:v=|youtu\.be/)([A-Za-z0-9_-]{11})", video_name)
-                if youtube_id_match:
-                    youtube_id = youtube_id_match.group(1)
-                    st.markdown(
-                        f'<iframe width="100%" height="{height}" '
-                        f'src="https://www.youtube.com/embed/{youtube_id}" '
-                        f'frameborder="0" allowfullscreen></iframe>',
-                        unsafe_allow_html=True,
-                    )
-                    if caption:
-                        st.caption(caption)
-                else:
-                    st.warning(f"⚠️ Could not extract YouTube video ID from: {video_name}")
+            parts = line.split(":", 1)
+            if len(parts) < 2 or not parts[1].strip():
+                st.warning("⚠️ VIDEO: line found but no filename provided.")
                 continue
 
-            # --- Local MP4 video ---
-            video_path = IMAGES_DIR / video_name
-            if video_path.exists():
-                st.video(str(video_path))
-                if caption:
-                    st.caption(caption)
-            elif video_name.startswith("http"):
+            video_parts = [p.strip() for p in parts[1].split("|")]
+            video_name = video_parts[0]
+            caption = video_parts[1] if len(video_parts) > 1 else ""
+
+            # YouTube video
+            if ("youtube.com" in video_name) or ("youtu.be" in video_name):
                 st.video(video_name)
                 if caption:
                     st.caption(caption)
+
+            # Local MP4 video
             else:
-                st.warning(f"⚠️ Video not found: {video_path}")
+                video_path = IMAGES_DIR / video_name
+                if video_path.exists():
+                    st.video(str(video_path))  # Keep default Streamlit size
+                    if caption:
+                        st.caption(caption)
+                else:
+                    st.warning(f"⚠️ Video not found: {video_path}")
             continue
 
-        # --- HEADINGS ---
+        # --- HEADING DETECTION ---
         heading_match = re.match(r'^(#{1,6})\s+(.*)', line)
         if heading_match:
             level = len(heading_match.group(1))
             content = heading_match.group(2)
-            st.markdown(f'{"#" * level} {content}')
+            st.markdown(f'{"#"*level} {content}')
             continue
 
         # --- NORMAL TEXT ---
@@ -155,16 +119,14 @@ def display_lesson(file_path: Path):
 # --- HOME PAGE ---
 if section == "Home":
     st.title("🎵 Welcome to Aza's School Of Music")
-
     cover_path = IMAGES_DIR / "cover.jpg"
     if cover_path.exists():
-        st.image(str(cover_path), use_container_width=True)
+        st.image(str(cover_path), width="stretch")
     else:
         st.write("_Cover image not found._")
-
     st.write("Select an instrument from the sidebar to explore your lessons!")
 
-# --- LESSON SECTIONS ---
+# --- INSTRUMENT LESSONS ---
 else:
     st.header(f"🎶 {section}")
     instrument_dir = LESSONS_DIR / section.lower()
