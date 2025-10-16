@@ -38,7 +38,7 @@ def load_lesson(file_path: Path):
 
 # --- DISPLAY FUNCTION ---
 def display_lesson(file_path: Path):
-    """Render .txt lessons with headings, Markdown, images, MP4 videos, and YouTube links."""
+    """Render .txt lessons with headings, Markdown, images, MP4 videos, YouTube links, and PDFs."""
     if not file_path.exists():
         st.error(f"Lesson not found: {file_path}")
         return
@@ -103,6 +103,41 @@ def display_lesson(file_path: Path):
                         st.caption(caption)
                 else:
                     st.warning(f"⚠️ Video not found: {video_path}")
+            continue
+
+        # --- PDF HANDLING ---
+        if line.lower().startswith("pdf:"):
+            parts = line.split(":", 1)
+            if len(parts) < 2 or not parts[1].strip():
+                st.warning("⚠️ PDF: line found but no filename provided.")
+                continue
+
+            pdf_parts = [p.strip() for p in parts[1].split("|")]
+            pdf_name = pdf_parts[0]
+            caption = pdf_parts[1] if len(pdf_parts) > 1 else ""
+            size_tag = pdf_parts[2].lower() if len(pdf_parts) > 2 else "normal"
+
+            pdf_path = IMAGES_DIR / pdf_name
+
+            # Online PDF or flipbook
+            if pdf_name.startswith("http"):
+                st.markdown(
+                    f"""
+                    <iframe src="{pdf_name}"
+                            width="100%" height="600px"
+                            style="border:none;">
+                    </iframe>
+                    """,
+                    unsafe_allow_html=True
+                )
+
+            # Local PDF
+            elif pdf_path.exists():
+                st.pdf(str(pdf_path))
+                if caption:
+                    st.caption(caption)
+            else:
+                st.warning(f"⚠️ PDF not found: {pdf_path}")
             continue
 
         # --- HEADING DETECTION ---

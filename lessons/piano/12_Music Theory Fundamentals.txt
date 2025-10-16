@@ -1,0 +1,61 @@
+### The Number System
+##### Scales Numbers
+The tones of a scale can be numbered:  
+**1-2-3-4-5-6-7-8** (or 1 at the octave)
+##### Chord Numbers
+Chords built on each tone in the scale are numbered using Roman numerals:  
+**I - ii - iii - IV - V - vi - vii**
+##### Chord Scale Tone Numbers
+The basic chord tones are usually: **1-3-5-7-9-11-13** relative to the root tone of the scale.
+---
+### Scales
+A series of tones played one after another with set intervals.
+IMAGE:major_scales.jpeg | | large 
+IMAGE:12majscales.jpeg | | large 
+IMAGE:majscalechart.jpeg | | large 
+##### Order of Flats (b) and Sharps (#)
+- **Flats order:** B, E, A, D, G, C, F  
+  *Mnemonic:* “Battle Ends And Down Goes Charles Father”
+- **Sharps order:** F, C, G, D, A, E, B  
+  *Mnemonic:* “Father Charles Goes Down And Eats Bread”  
+- Note: Flats order is sharps order reversed.
+---
+### Chords
+A combination of **three or more notes** played in unison forming harmony.
+IMAGE:chord_formula_chart.png | | large 
+Four basic chord qualities are shown using C as an example i.e. major, minor, augmented and diminished. These chords are the foundation for building extended and altered chords in contemporary harmony.
+**Chord Numbers:**  
+- Major/Dominant: uppercase Roman numerals (I, IV, V)  
+- Minor/Diminished: lowercase Roman numerals (ii, iii, vi, vii)  
+- Use `#` or `b` to show raised or lowered notes.
+---
+### Roman Numeral Analysis
+_In music theory you will come across Roman numeral analysis. In music, Roman numerals are used to represent chords, coordinating with scale degrees 1-7. For instance, “IV” denotes the chord built on the fourth degree of a scale._
+- Uppercase = major chords  
+- Lowercase = minor chords  
+**Symbols for Remaining Chords:**
+IMAGE:chordsymbols.jpeg | | large   
+- Augmented: I+, III+  
+- Diminished: vi°, vii°  
+- Half-diminished: viiØ7, vii-7(b5)  
+- Suspended: IVsus2, Vsus4  
+- Major 6th: I6  
+- Minor 6th: I-6  
+- Major 7th: I△, IV△  
+- Minor 7th: Im7, vi-7  
+- Minor-Major 7th: ivm△, vi-△  
+- Dominant 7th: IV7, V7  
+- Extended chords: ii9, V#11, V13  
+- Altered tones: add(#5, b9, #9, #11, b13)  
+---
+### Inversions
+- **Root Position (a):** Root is lowest note  
+- **1st Inversion (b):** Third is lowest note  
+- **2nd Inversion (c):** Fifth is lowest note  
+- **3rd Inversion (d):** Seventh is lowest note (for 7th chords)  
+---
+### Circle Of Fifths
+IMAGE:circle_of_fifths.jpeg | Circle Of Fifths
+IMAGE:scale_degrees.jpeg | 
+##### Relative Minor Keys
+Each major key has a relative minor key, which contains exactly the same notes. To find the relative mine submediant (sixth) note of the major scale. For example, the relative minor of C major, is A minor.

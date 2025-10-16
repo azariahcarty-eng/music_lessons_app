@@ -1,0 +1,167 @@
+_Modes are variations of the **major and minor scales**, each starting from a different note within the scale.  
+They provide unique tonal colors and are the foundation for understanding jazz, rock, and modal harmony._
+---
+## Major Scale Modes
+##### 1. Ionian
+**C Major (Ionian)**  
+C D E F G A B  
+R 2 3 4 5 6 7  
+C, Cmaj7
+##### 2. Dorian — (b3)(b7)
+**D Dorian**  
+D E F G A B C  
+R 2 b3 4 5 6 b7  
+Dm, Dm7
+##### 3. Phrygian — (b2)(b3)(b6)(b7)
+**E Phrygian**  
+E F G A B C D  
+R b2 b3 4 5 b6 b7  
+Em, Em7
+##### 4. Lydian — (#4)
+**F Lydian**  
+F G A B C D E  
+R 2 3 #4 5 6 7  
+F, Fmaj7
+##### 5. Mixolydian — (b7)
+**G Mixolydian**  
+G A B C D E F  
+R 2 3 4 5 6 b7  
+G, G7
+##### 6. Aeolian — (b3)(b6)(b7)
+**A Aeolian (Natural Minor)**  
+A B C D E F G  
+R 2 b3 4 5 b6 b7  
+Am, Am7
+##### 7. Locrian — (b2)(b3)(b5)(b6)(b7)
+**B Locrian**  
+B C D E F G A  
+R b2 b3 4 b5 b6 b7  
+B°, Bø
+---
+## 🎵 Natural Minor Modes
+##### 1. Aeolian — (b3)(b6)(b7)
+**C Aeolian (Natural Minor)**  
+C D Eb F G Ab Bb  
+R 2 b3 4 5 b6 b7  
+Cm, Cm7
+##### 2. Locrian — (b2)(b3)(b5)(b6)(b7)
+**D Locrian**  
+D Eb F G Ab Bb C  
+R b2 b3 4 b5 b6 b7  
+D°
+##### 3. Ionian
+**Eb Ionian (Major)**  
+Eb F G Ab Bb C D  
+R 2 3 4 5 6 7  
+Eb, Ebmaj7
+##### 4. Dorian — (b3)(b7)
+**F Dorian**  
+F G Ab Bb C D Eb  
+R 2 b3 4 5 6 b7  
+Fm, Fm7
+##### 5. Phrygian — (b2)(b3)(b6)(b7)
+**G Phrygian**  
+G Ab Bb C D Eb F  
+R b2 b3 4 5 b6 b7  
+Gm, Gm7
+##### 6. Lydian — (#4)
+**Ab Lydian**  
+Ab Bb C D Eb F G  
+R 2 3 #4 5 6 7  
+Ab, Abmaj7
+##### 7. Mixolydian — (b7)
+**Bb Mixolydian**  
+Bb C D Eb F G Ab  
+R 2 3 4 5 6 b7  
+Bb, Bb7
+---
+## 🎶 Harmonic Minor Modes
+##### 1. Aeolian Nat. 7 — (b3)(b6)
+**C Harmonic Minor**  
+C D Eb F G Ab B  
+R 2 b3 4 5 b6 7  
+Cm, Cm(maj7), Cm^b13
+##### 2. Locrian Nat 6 — (b2)(b3)(b5)(b7)
+**D Locrian Nat 6**  
+D Eb F G Ab B C  
+R b2 b3 4 b5 6 b7  
+D°, Dø, Dm7b5
+##### 3. Ionian Augmented — (#5)
+**Eb Ionian Augmented**  
+Eb F G Ab B C D  
+R 2 3 4 #5 6 7  
+Eb+, Ebmaj7#5
+##### 4. Dorian #4 — (b3)(#4)(b7)
+**F Dorian #4**  
+F G Ab B C D Eb  
+R 2 b3 #4 5 6 b7  
+Fm7, Fm7(#11)
+##### 5. Phrygian Major — (b2)(b6)(b7)
+**G Phrygian Major**  
+G Ab B C D Eb F  
+R b2 3 4 5 b6 b7  
+G7(b9,b13)
+##### 6. Lydian #9 — (#9)(#4)
+**Ab Lydian #9**  
+Ab B C D Eb F G  
+R #9 3 #4 5 6 7  
+Abmaj7(#9,#11)
+##### 7. Altered Dominant (Diminished) — (b9)(#9)(b5)(#5)(b7)
+**B Altered**  
+B C D Eb F G Ab  
+R b9 #9 3 b5 #5 b7  
+B°, B°7, B7alt
+---
+## 🎷 Melodic Minor Modes (“Jazz Minor”)
+##### 1. Jazz Minor — (b3)
+**C Melodic Minor**  
+C D Eb F G A B  
+R 2 b3 4 5 6 7  
+Cm6, Cm(maj7)
+##### 2. Dorian b9 — (b9)(b3)(b7)
+**D Dorian b9**  
+D Eb F G A B C  
+R b2 b3 4 5 6 b7  
+Dm7(b9)
+##### 3. Lydian Augmented — (#4)(#5)
+**Eb Lydian Augmented**  
+Eb F G A B C D  
+R 2 3 #4 #5 6 7  
+Ebmaj7#5
+##### 4. Lydian Dominant — (#4)(b7)
+**F Lydian Dominant**  
+F G A B C D Eb  
+R 2 3 #4 5 6 b7  
+F7(#11)
+##### 5. Mixolydian b6 — (b6)(b7)
+**G Mixolydian b6**  
+G A B C D Eb F  
+R 2 3 4 5 b6 b7  
+G7(b13)
+##### 6. Locrian Nat 2 — (b3)(b5)(b6)(b7)
+**A Locrian Nat 2**  
+A B C D Eb F G  
+R 2 b3 4 b5 b6 b7  
+Aø, Am7b5
+##### 7. Altered Dominant — (b2)(b3)(b5)(b6)(b7)
+**B Altered Dominant**  
+B C D Eb F G A  
+R b9 b3 3 b5 #5 b7  
+B7alt, B7(#9,#11,b13)
+---
+### 🧠 Diatonic Chord Guide
+**Major Scale:**  
+I, ii, iii, IV, V, vi, vii°  
+I∆, iim7, iiim7, IV∆, V7, vim7, viiø  
+
+**Natural Minor:**  
+i, ii°, bIII, iv, v, bVI, bVII  
+im7, iiø, bIII∆, ivm7, vm7, bVI∆, bVII7  
+
+**Harmonic Minor:**  
+i, ii°, bIII+, iv, V, bVI, vii°  
+im∆, iiø, bIII∆#5, ivm7, V7, bVI∆, vii°7  
+
+**Melodic Minor:**  
+i, iim, bIII+, IV, V, vi°, vii°  
+im∆, iim7, bIII∆#5, IV7, V7, viø, viiø 

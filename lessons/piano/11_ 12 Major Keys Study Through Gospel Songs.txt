@@ -87,3 +87,58 @@ IMAGE:A_diatonic.png | | full
 IMAGE:helookedbeyond1.jpeg | | large
 **Progression with Extended/Altered Chords:**
 IMAGE:helookedbeyond2.jpeg | | large
+---
+### 8) Jesus Loves Me: 
+Key: D major
+Scale: **D E F# G A B C# D**  
+**Diatonic Chords:** 
+**DM7 Em7 F#m7 GM7 A7 Bm7 C#m7b5**
+IMAGE:D_diatonic.png | | full
+**Basic Chord Progression:**
+IMAGE:jesuslovesme1.jpeg | | large
+**Progression with Extended/Altered Chords:**
+IMAGE:jesuslovesme2.jpeg | | large
+---
+### 9) How Great Thou Art: 
+Key: G major
+Scale: **G A B C D E F# G**  
+**Diatonic Chords:** 
+**GM7 Am7 Bm7 CM7 D7 Em7 F#m7b5**
+IMAGE:G_diatonic.png | | full
+**Basic Chord Progression:**
+IMAGE:howgreatthouart1.jpeg | | large
+**Progression with Extended/Altered Chords:**
+IMAGE:howgreatthouart2.jpeg | | large
+---
+### 10) Blessed Assurance: 
+Key: C major
+Scale: **C D E F G A B**  
+**Diatonic Chords:** 
+**CM7 Dm7 Em7 FM7 G7 Am7 Bm7b5**
+IMAGE:C_diatonic.png | | full
+**Basic Chord Progression:**
+IMAGE:blessedassurance1.jpeg | | large
+**Progression with Extended/Altered Chords:**
+IMAGE:blessedassurance2.jpeg | | large
+---
+### 11) The Solid Rock: 
+Key: F major
+Scale: **F G A Bb C D E F**  
+**Diatonic Chords:** 
+**FM7 Gm7 Am7 BbM7 C7 Dm7 Em7b5**
+IMAGE:F_diatonic.png | | full
+**Basic Chord Progression:**
+IMAGE:thesolidrock1.jpeg | | large
+**Progression with Extended/Altered Chords:**
+IMAGE:thesolidrock2.jpeg | | large
+---
+### 12) Great Is Thy Faithfulness: 
+Key: Bb major
+Scale: **Bb C D Eb F G A Bb**  
+**Diatonic Chords:** 
+**BbM7 Cm7 Dm7 EbM7 F7 Gm7 Am7b5**
+IMAGE:Bb_diatonic.png | | full
+**Basic Chord Progression:**
+IMAGE:greatisthy1.jpeg | | large
+**Progression with Extended/Altered Chords:**
+IMAGE:greatisthy2.jpeg | | large

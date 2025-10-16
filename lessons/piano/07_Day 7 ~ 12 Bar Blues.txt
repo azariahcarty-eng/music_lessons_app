@@ -1,0 +1,89 @@
+##### INTRODUCTION
+_Various strands can be brought together and practiced in **12 bar blues**.  
+We can use this well-known structure to illustrate:_
+- Putting a series of chords together  
+- Playing **inversions** of chords  
+- Adding notes to chords to create new sounds  
+- **Transposing** between keys  
+- Developing **rhythm and feel**  
+- Balancing left and right hand interplay  
+- Creating **variations** around a chord sequence  
+12 bar blues can be played fast or slow, and its distinctive “feel” fits easily into **jazz**, **blues**, **rock’n’roll**, and **pop**.  
+Boogie woogie is also usually in 12 bar form — endless fun can be had by **improvising** around its basic chords.
+---
+#### 🎵 What is a 12 Bar Blues?
+**Basically, 12 bar blues is three chords in one key played in a set order for 12 bars.**
+#### The Chords Used
+The three chords come from the **I**, **IV**, and **V** degrees of the scale in that key.
+IMAGE:12barblues11.jpeg | | large 
+Knowing then the primary chords to be used, it can be seen that 12 bar blues could be played on other basic chords
+based on the same notes, or adding or amending notes to the basic chords used.
+IMAGE:12barblues22.jpeg | | large 
+That’s it — the foundation of countless songs!
+---
+#### 🎼 The Order of the Chords
+Although the pattern looks rigid, it has a natural flow that allows freedom and improvisation.
+**12 Bar Blues in C**
+IMAGE:orderofblues.jpeg | | large 
+🎧 Try looping this slowly at first, then gradually increase your speed.  
+Soon you’ll start to *feel* where the changes naturally occur.
+---
+##### 🎹 Exercise 7.1 — Basic Pattern
+- Left hand: play **octave root notes** (hold for four beats).  
+- Right hand: play the **chord** for each beat in the bar.
+IMAGE:cblues1.jpeg | | large 
+IMAGE:cblues2.jpeg | | large 
+This helps develop timing and coordination.
+**12-Bar Blues Backing Track - Medium** 
+video:2.4medium.mp4 | 12-Bar Blues Backing Track | normal
+**12-Bar Blues Backing Track - Fast**
+video:2.4fast.mp4 | 12-Bar Blues Backing Track | normal
+---
+##### 🎶 Exercise 7.2 — Using Sixth Chords
+For variation, use **C6**, **F6**, and **G6**.
+- Left hand: root note (held 4 beats).  
+- Right hand: an **inversion** of each 6th chord, one per beat.
+IMAGE:c6blues1.jpeg | | large 
+IMAGE:c6blues2.jpeg | | large 
+---
+##### 🎷 Exercise 7.3 — “Seventh Heaven”
+The most common chords in 12 bar blues are **sevenths**.
+- Use **C7**, **F7**, and **G7**.  
+- Left hand: hold the **root note** for 4 beats per bar.
+- Right hand: play **inversions** of these chords.  
+IMAGE:c7blues1.jpeg | | large 
+---
+##### 🥁 Exercise 7.4 — Rhythm and Tempo Variations
+Experiment with rhythm and tempo:
+- **Slow blues:** 2 chords per bar (right hand), left hand holds root for 4 beats.  
+- **Fast blues:** 8 chords per bar (right hand), left hand still holds root note.
+Try different feels — swing, shuffle, straight time.
+---
+##### 🎶 Exercise 7.5 — 12 Bar Blues in Different Keys
+Try in **F**, **G**, or others.
+- F Blues: 
+IMAGE:fblues1.jpeg | | large 
+IMAGE:fblues2.jpeg | | large 
+- G Blues:  
+IMAGE:gblues1.jpeg | | large 
+IMAGE:gblues2.jpeg | | large 
+Mix and match:
+- Left hand: single notes or full chords (2–4 per bar).  
+- Right hand: single notes, riffs, or chord tones.
+---
+#### 🎹 Beyond the Basics
+Later you’ll revisit 12 bar blues to play:
+- **Boogie woogie**
+- **Improvised solos**
+- **Early rock’n’roll progressions**
+Some pieces even use **24-bar blues** (each chord held for two bars).
+---
+#### SUMMARY
+- The **primary chords** in any key: I, IV, and V.  
+- These chords form the backbone of **12 bar blues**.  
+- The sequence can be played in **any key** by transposing I–IV–V.  
+- This structure helps you:
+  - Strengthen left/right hand coordination  
+  - Build rhythmic awareness  
+  - Explore harmony and improvisation  
+Over time, you’ll add fills, walking bass lines, and embellishments to create a **personal blues style**.
