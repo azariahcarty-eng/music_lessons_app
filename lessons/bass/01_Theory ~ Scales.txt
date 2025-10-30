@@ -1,0 +1,38 @@
+There are only 12 musical notes. The note names repeat as the notes go higher in pitch.
+#### Bass Fretboard
+IMAGE:bass_fretboard.jpeg | Bass Fretboard 
+### Octave Patterns
+PDF:https://online.fliphtml5.com/zmieb/fcvd/ | Octave Patterns | normal
+---
+### Theory In A Nutshell
+Scales, triads, arpeggios, intervals and chords are the building blocks of music. Here’s how they fit together. Learn this page and the lingo inside out as it will make sense of a lot of more advanced ideas.
+#### Scales
+Think of scales as different colours or spices. All music uses them
+and different scales have characteristic sounds. They are simply
+collections of notes made up of a specific pattern. The most
+common scales - major and natural minor - contain 7 different
+notes.
+IMAGE:bass_scales.png | Scales
+#### Triads
+'Tri' means three. A triad is made up of the 1st, 3rd and 5th notes of
+a scale (that's 3 notes in total hence 'triad'). There are only 4
+different types of triad and they form the basis of many bass lines.
+IMAGE:bass_triads.png | Triads
+#### Arpeggios
+An arpeggio is the same as a triad except with the addition of the
+eighth note in the scale (the 'octave'). You can play many cool lines
+in lots of different styles just using triads and arpeggios.
+IMAGE:bass_arpeggios.png | Arpeggios
+#### Chords
+If you play the notes of a triad together at the same time, rather
+than one by one, you have a chord. The bass doesn't play chords
+much in most styles of music but you can actually do a lot with
+them; for example in solos, fills and making your practice more
+interesting. Learning how to make chords from a scale, on the
+bass or on the piano or guitar, will allow you to easily compose
+your own music as well as understand how a lot of songs work.
+IMAGE:bass_chords.png | Chords
+#### Intervals
+An interval is the distance between two musical pitches. All of the above are made up of intervals.
+##### How Do You Use All Of This?
+_Scales, triads, arpeggios and chords really are the building blocks of all bass lines. When you learn to play them you learn their sounds which in turn improves your ability to hear music. When you have a good ear and can recognise some of these sounds then you can work bass lines out more easily and also effortlessly create your own._

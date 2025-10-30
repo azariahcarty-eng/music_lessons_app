@@ -25,7 +25,7 @@ IMAGES_DIR = BASE_DIR / "images"
 
 # --- SIDEBAR ---
 st.sidebar.title("Aza's School Of Music🎶")
-section = st.sidebar.radio("Choose Instrument", ["Home", "Piano", "Guitar", "Ukulele"])
+section = st.sidebar.radio("Choose Instrument", ["Home", "Piano", "Guitar", "Ukulele", "Bass"])
 
 # --- LOAD LESSONS (cached) ---
 @st.cache_data

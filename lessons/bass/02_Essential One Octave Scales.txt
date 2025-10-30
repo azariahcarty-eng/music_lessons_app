@@ -1,0 +1,27 @@
+_Memorise all of these patterns. You can make a lot of music with only these shapes but this is just the start. Try and play any scale across one string, three notes per string, two octaves, lowest note to highest note on the fretboard. The more shapes and patterns and ways you know how to
+play anything on the bass the better._
+_These shapes are all moveable. Just slide the bottom note wherever you want (on the A or D strings) and you're good to go. The numbers on the blobs are your fretting hand fingers. The intervals are shown by the side of the diagram._
+**Major**
+IMAGE:major.png | Major Scale
+**Major Pentatonic**
+IMAGE:major_pentatonic.png | Major Pentatonic
+**Natural Minor**
+IMAGE:natural_minor.png | Natural Minor
+**Minor Pentatonic**
+IMAGE:minor_pentatonic.png | Minor Pentatonic
+_These are the main scales that will get you by in a lot of styles of music including rock, pop and funk. Learning what to do with those scales is when the magic happens…_
+_For other styles of music including jazz, metal and world, the melodic minor and harmonic minor are two scales to know._
+**Melodic Minor**
+IMAGE:melodic_minor.png | Melodic Minor
+**Harmonic Minor**
+IMAGE:harmonic_minor.png | Harmonic Minor
+---
+_Modes fry the heads of many a bass player but, really, they are simply more scales. They open the door to many more colours, moods, and styles and you should definitely get to know them. Scan the code below to hear some famous songs that use each of the major scale modes. This is a great way to learn what modes can actually do for you. This is an example of learning a new idea in context to what actually happens in music._
+### One Octave Major Scale Modes
+IMAGE:ionian.png | Ionian
+IMAGE:dorian.png | Dorian
+IMAGE:phrygian.png | Phrygian
+IMAGE:lydian.png | Lydian
+IMAGE:mixolydian.png | Mixolydian
+IMAGE:aeolian.png | Aeolian
+IMAGE:locrian.png | Locrian

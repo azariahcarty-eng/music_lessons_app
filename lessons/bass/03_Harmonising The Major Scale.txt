@@ -1,0 +1,9 @@
+_As bass players, we mainly outline the harmony of a piece of music using single notes. That means scales, arpeggios and triads. You can also form chords from these arpeggios and then mess around with writing chord progressions. You can find those chords later on in the chord section._
+_Notice how these arpeggios line up exactly with the modes from the previous section (those modes formed these arpeggios - the 1st, 3rd, 5th, and 7th notes of the mode as well as the octave). Make music with these tools.
+IMAGE:bass_cmaj7.png | C Maj 7
+IMAGE:bass_dmin7.png | D Min 7
+IMAGE:bass_emin7.png | E Min 7
+IMAGE:bass_fmaj7.png | F Maj 7
+IMAGE:bass_gdom7.png | G Dom 7
+IMAGE:bass_amin7.png | A Min 7
+IMAGE:bass_bm7b5.png | B Min 7b5

@@ -1,0 +1,11 @@
+_The minor and major pentatonic scales are responsible for so much bass playing. When it comes to making up bass lines, learning songs, coming up with fills, solos, hooks, riffs and melodies, it’s a safe bet that this scale is the most popular. Learn these shapes inside out._
+The example below uses F minor. F minor is related to Ab major. What this means is that by learning the F minor pentatonic scale, you're also learning the Ab major pentatonic scale.
+##### Relative Minor Keys
+Each major key has a relative minor key, which contains exactly the same notes. To find the relative mine submediant (sixth) note of the major scale. For example, the relative minor of C major, is A minor... the relative minor of Ab major, is F minor.
+#### The Minor Pentatonic Shapes
+IMAGE:shape_1.png | Shape 1
+IMAGE:shape_2.png | Shape 2
+IMAGE:shape_3.png | Shape 3
+IMAGE:shape_4.png | Shape 4
+IMAGE:shape_5.png | Shape 5
+IMAGE:all_shapes.png | All Shapes Together

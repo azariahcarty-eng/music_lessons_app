@@ -1,0 +1,20 @@
+**Intervals** are incredibly useful things to know. Remember that an interval is the distance between any two musical notes. Much of bass playing involves single note lines. That means that if you learn the sounds that intervals make, your ear will strengthen, allowing you to play what you hear in your head much more easily.
+What follows is a great way to map out the intervals on the bass whilst anchoring them to a familiar tune you already know (or can learn easily). That way, you will be able to hear music much better.
+This allows you to:
+- Figure out bass lines easily
+- Know how to insert notes into chords, triads and arpeggios
+- Sing a melody or line and play it on the bass
+- Improvise and jam spontaneously
+- Gain valuable ear training skills
+IMAGE:intervals.jng | Interval Sheet
+
+#### The Chords From C Major
+_These examples use 'seventh' chords. They sound quite jazzy. There are loads of different types of chords. Experiment with putting different intervals (from the corresponding modes) in to get different sounds. Chords are often represented by roman numerals (upper case = major, lower case = minor)._
+IMAGE:cma7.png | C Maj 7
+IMAGE:dm7.png | D Min 7
+IMAGE:em7.png | E Min 7
+IMAGE:fma7.png | F Maj 7
+IMAGE:gd7.png | G Dom 7
+IMAGE:am7.png | A Min 7
+IMAGE:bm7b5.png | B Min 7b5
+_To play around with writing music, take some of these chords and arrange them in different orders. Play the notes separately ('arpeggiating' the chord) or together (with your plucking hand thumb, index and middle fingers) whilst making up different rhythms. You will quickly be making music. Write down or record anything you like the sound of._
