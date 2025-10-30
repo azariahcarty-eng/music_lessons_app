@@ -1,6 +1,6 @@
 There are only 12 musical notes. The note names repeat as the notes go higher in pitch.
 #### Bass Fretboard
-IMAGE:bass_fretboard.jpeg | Bass Fretboard 
+IMAGE:bass_fretboard.jpeg | Bass Fretboard | full
 ### Octave Patterns
 PDF:https://online.fliphtml5.com/zmieb/fcvd/ | Octave Patterns | normal
 ---
@@ -17,7 +17,7 @@ An arpeggio is the same as a triad except with the addition of the eighth note i
 IMAGE:bass_arpeggios.png | Arpeggios
 #### Chords
 If you play the notes of a triad together at the same time, rather than one by one, you have a chord. The bass doesn't play chords much in most styles of music but you can actually do a lot with them; for example in solos, fills and making your practice more interesting. Learning how to make chords from a scale, on the bass or on the piano or guitar, will allow you to easily compose your own music as well as understand how a lot of songs work.
-IMAGE:bass_chords.png | Chords
+IMAGE:bass_chords.png | Chords | small
 #### Intervals
 An interval is the distance between two musical pitches. All of the above are made up of intervals.
 ##### How Do You Use All Of This?
