@@ -1,4 +1,4 @@
-There are only 12 musical notes. The note names repeat as the notes go higher in pitch.
+_There are only 12 musical notes. The note names repeat as the notes go higher in pitch._
 #### Bass Fretboard
 IMAGE:bass_fretboard.jpeg | Bass Fretboard | full
 ### Octave Patterns
