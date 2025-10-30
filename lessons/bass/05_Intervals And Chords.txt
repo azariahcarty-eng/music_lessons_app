@@ -6,7 +6,7 @@ This allows you to:
 - Sing a melody or line and play it on the bass
 - Improvise and jam spontaneously
 - Gain valuable ear training skills
-IMAGE:intervals.jng | Interval Sheet
+IMAGE:intervals.jpg | Interval Sheet
 
 #### The Chords From C Major
 _These examples use 'seventh' chords. They sound quite jazzy. There are loads of different types of chords. Experiment with putting different intervals (from the corresponding modes) in to get different sounds. Chords are often represented by roman numerals (upper case = major, lower case = minor)._

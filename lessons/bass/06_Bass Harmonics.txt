@@ -3,12 +3,12 @@ IMAGE:harmonics.png |
 _To play one, lightly touch the string directly above the fret (without pressing the string down against the fret) and pluck. Note that the harmonics on frets 2,3 and 4 do not lie directly over the fret. On frets 2 and 3 you play slightly after the frets and on fret 4 slightly before the fret. Otherwise it’s directly over the fret._
 ### Harmonic Chord Charts
 _Use these on endings and in solos and bass lines. Check out Jaco Pastorius’ Portrait Of Tracy and Victor Wooten’s Amazing Grace for the only lessons you’ll need on using them in a solo context._
-IMAGE:harmonics1.png | 
-IMAGE:harmonics2.png | 
-IMAGE:harmonics3.png | 
-IMAGE:harmonics4.png | 
-IMAGE:harmonics5.png | 
-IMAGE:harmonics6.png | 
-IMAGE:harmonics7.png | 
+IMAGE:harmonics1.png | | full
+IMAGE:harmonics2.png | | large
+IMAGE:harmonics3.png | | full
+IMAGE:harmonics4.png | | full
+IMAGE:harmonics5.png | | full
+IMAGE:harmonics6.png | | full
+IMAGE:harmonics7.png | | full
 [🎥 Bass Guitar Harmonics](https://youtu.be/j7c1lxY0_kY?si=3_jN4QP9jN9i2pbC)
 video:https://youtu.be/j7c1lxY0_kY?si=3_jN4QP9jN9i2pbC | Bass Guitar Harmonics | large
