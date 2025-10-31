@@ -3,10 +3,14 @@ _This is a ukulele tutorial on a fast finger picking technique. I'll show a coup
 ##### 1) Technique
 **Step 1)**
 Thumb on G & C strings. Index on E string. Middle on A.
-
+**Step 2)**
+Pluck the thumb, index middle in a triplet pattern
+IMAGE:arpg1.png | | normal
 **Tip**
 The pulse is played when thumb plucks the G & C strings.
-IMAGE:arpg.jpeg | | large
+IMAGE:arpg.jpeg | | normal
+**Alternate Technique**
+Use the index and middle fingers to play the A string
 
 [🎥 Fingerpicking Lesson - Fast Arpeggios](https://youtu.be/SWPAMpvnXnA?si=BKiHLoxX4qyGu8tN)
 video:https://youtu.be/SWPAMpvnXnA?si=BKiHLoxX4qyGu8tN | | large
