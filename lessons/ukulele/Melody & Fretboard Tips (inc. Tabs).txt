@@ -1,7 +1,7 @@
 IMAGE:shelovelychart.png | Isn’t She Lovely Chord Chart | 
 IMAGE:shelovelychords.png | Chord Chart | 
 #### Tabs
-IMAGE:shelovely1.jpg | Isn’t She Lovely Tabs - 1 | 
+IMAGE:shelovely1.jpg | Isn’t She Lovely Tabs - 1 | full
 #### Fretboard Tips
 **There are 3 Considerations**
 - **1: Timbre** 
@@ -14,5 +14,4 @@ If you are going to play open strings be aware of what’s ringing out. Sometime
 This comes down to where are your fingers and how much do you have to move them to get the result that you’re looking for.
 Eg. In a second part of the song here, I can keep my hand on the 5th fret and not move very much.
 Minimizing the amount of movement, that’s playability, thinking about where you are playing the melody to get the result you want with least movement.
-IMAGE:shelovely2.jpg | Isn’t She Lovely Tabs - 2 | 
-
+IMAGE:shelovely2.jpg | Isn’t She Lovely Tabs - 2 | full
