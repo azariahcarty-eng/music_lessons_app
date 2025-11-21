@@ -1,39 +1,39 @@
 ## ⤵️ Pentatonic Position #1
 #### Diatonic Position #1
-IMAGE:dia_position_1a.png | | large
+IMAGE:dia_position_1a.png | | full
 ##### Major 2-5-1s 
-IMAGE:maj251_position_1a.png | | large
+IMAGE:maj251_position_1a.png | | full
 ##### Minor 2-5-1s 
-IMAGE:min251_position_1a.png | | large
+IMAGE:min251_position_1a.png | | full
 
 ## ⤵️ Pentatonic Position #2
 #### Diatonic Position #2
-IMAGE:dia_position_2a.png | | large
+IMAGE:dia_position_2a.png | | full
 ##### Major 2-5-1s 
-IMAGE:maj251_position_2a.png | | large
+IMAGE:maj251_position_2a.png | | full
 ##### Minor 2-5-1s 
-IMAGE:min251_position_2a.png | | large
+IMAGE:min251_position_2a.png | | full
 
 ## ⤵️ Pentatonic Position #3
 #### Diatonic Position #3
-IMAGE:dia_position_3a.png | | large
+IMAGE:dia_position_3a.png | | full
 ##### Major 2-5-1s 
-IMAGE:maj251_position_3a.png | | large
+IMAGE:maj251_position_3a.png | | full
 ##### Minor 2-5-1s 
-IMAGE:min251_position_3a.jpeg | | large
+IMAGE:min251_position_3a.jpeg | | full
 
 ## ⤵️ Pentatonic Position #4
 #### Diatonic Position #4
-IMAGE:dia_position_4a.png | | large
+IMAGE:dia_position_4a.png | | full
 ##### Major 2-5-1s 
-IMAGE:maj251_position_4a.png | | large
+IMAGE:maj251_position_4a.png | | full
 ##### Minor 2-5-1s 
-IMAGE:min251_position_4a.png | | large
+IMAGE:min251_position_4a.png | | full
 
 ## ⤵️ Pentatonic Position #5
 #### Diatonic Position #5
-IMAGE:dia_position_5a.png | | large
+IMAGE:dia_position_5a.png | | full
 ##### Major 2-5-1s 
-IMAGE:maj251_position_5a.png | | large
+IMAGE:maj251_position_5a.png | | full
 ##### Minor 2-5-1s 
-IMAGE:min251_position_5a.png | | large
+IMAGE:min251_position_5a.png | | full

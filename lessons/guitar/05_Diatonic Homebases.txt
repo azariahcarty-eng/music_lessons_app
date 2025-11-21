@@ -1,44 +1,44 @@
 ## ⤵️ Pentatonic Position #1
 #### Diatonic Position #1
-IMAGE:dia_position_1.png | | large
+IMAGE:dia_position_1.png | | full
 ##### Major 2-5-1s 
-IMAGE:maj251_position_1.jpg | | large
-IMAGE:maj251_position_1b.png | | large
+IMAGE:maj251_position_1.jpg | | full
+IMAGE:maj251_position_1b.png | | full
 ##### Minor 2-5-1s 
-IMAGE:min251_position_1.jpeg | | large
+IMAGE:min251_position_1.jpeg | | full
 
 ## ⤵️ Pentatonic Position #2
 #### Diatonic Position #2
-IMAGE:dia_position_2.jpeg | | large
+IMAGE:dia_position_2.jpeg | | full
 ##### Major 2-5-1s 
-IMAGE:maj251_position_2.png | | large
-IMAGE:maj251_position_2b.png | | large
+IMAGE:maj251_position_2.png | | full
+IMAGE:maj251_position_2b.png | | full
 ##### Minor 2-5-1s 
-IMAGE:min251_position_2.png | | large
+IMAGE:min251_position_2.png | | full
 
 ## ⤵️ Pentatonic Position #3
 #### Diatonic Position #3
-IMAGE:dia_position_3.png | | large
+IMAGE:dia_position_3.png | | full
 ##### Major 2-5-1s 
-IMAGE:maj251_position_3.png | | large
-IMAGE:maj251_position_3b.png | | large
+IMAGE:maj251_position_3.png | | full
+IMAGE:maj251_position_3b.png | | full
 ##### Minor 2-5-1s 
-IMAGE:min251_position_3.jpeg | | large
+IMAGE:min251_position_3.jpeg | | full
 
 ## ⤵️ Pentatonic Position #4
 #### Diatonic Position #4
-IMAGE:dia_position_4.jpeg | | large
+IMAGE:dia_position_4.jpeg | | full
 ##### Major 2-5-1s 
-IMAGE:maj251_position_4.png | | large
-IMAGE:maj251_position_4b.png | | large
+IMAGE:maj251_position_4.png | | full
+IMAGE:maj251_position_4b.png | | full
 ##### Minor 2-5-1s 
-IMAGE:min251_position_4.png | | large
+IMAGE:min251_position_4.png | | full
 
 ## ⤵️ Pentatonic Position #5
 #### Diatonic Position #5
-IMAGE:dia_position_5.jpeg | | large
+IMAGE:dia_position_5.jpeg | | full
 ##### Major 2-5-1s 
-IMAGE:maj251_position_5.jpeg | | large
-IMAGE:maj251_position_5b.png | | large
+IMAGE:maj251_position_5.jpeg | | full
+IMAGE:maj251_position_5b.png | | full
 ##### Minor 2-5-1s 
-IMAGE:min251_position_5.png | | large
+IMAGE:min251_position_5.png | | full
