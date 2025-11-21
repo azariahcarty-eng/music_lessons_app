@@ -20,7 +20,7 @@ IMAGE:dia_position_3a.png | | full
 ##### Major 2-5-1s 
 IMAGE:maj251_position_3a.png | | full
 ##### Minor 2-5-1s 
-IMAGE:min251_position_3a.jpeg | | full
+IMAGE:min251_position_3a.png | | full
 
 ## ⤵️ Pentatonic Position #4
 #### Diatonic Position #4
